@@ -37,6 +37,7 @@ to run the program you have to install the required modules so open the terminal
 
 `$ pip3 install -r requirements.txt`
 ## Execution
+You can test this software with "text1.jpeg"
 ### GUI
 #### - Windows
 `$ python image_to_text.py`
