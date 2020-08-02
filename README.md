@@ -8,8 +8,8 @@
     + [Install other modules](#install-other-modules)
   * [Execution](#execution)
     + [GUI](#gui)
-      - [- Windows](#--windows)
-      - [- Linux](#--linux)
+      - [ Windows](#--windows)
+      - [ Linux](#--linux)
   * [Links](#links)
 ## Download
 To Download this software clone this repositorie or Download it as zip.
